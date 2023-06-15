@@ -3,5 +3,10 @@
   {"nama": "FIFA 23", "publisher": "Electronic Arts", "imageResId": "fifa"},
   {"nama": "Grand Theft Auto V", "publisher": "Rockstar Games", "imageResId": "gta"},
   {"nama": "Fortnite", "publisher": "Epic Games", "imageResId": "fortnite"},
+  {"nama": "Super Smash Bros Ultimate", "publisher": "Nintendo", "imageResId": "smash"},
+  {"nama": "Final Fantasy XV", "publisher": "Square Enix", "imageResId": "ffxv"},
+  {"nama": "Rust", "publisher": "Facepunch Studios", "imageResId": "rust"},
+  {"nama": "Call Of Duty Warzone", "publisher": "Activision", "imageResId": "cod"},
+  {"nama": "Dying Light 2", "publisher": "Techland Publishing", "imageResId": "dying"},
   {"nama": "Valorant", "publisher": "RIOT Games", "imageResId": "valorant"}
 ]
